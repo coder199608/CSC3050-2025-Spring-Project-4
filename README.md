@@ -7,7 +7,7 @@ Part 4: Trace‑driven performance analysis of five matrix‑multiply loop orde
 
 Demo video: 
 
-![p4](./image/p4.gif)
+![p4](https://raw.githubusercontent.com/coder199608/pictures/main/images/p4.gif)
 
 
 ## 📦 Repository Contents
