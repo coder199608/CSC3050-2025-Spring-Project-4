@@ -7,6 +7,8 @@ Part 4: Trace‑driven performance analysis of five matrix‑multiply loop orde
 
 Demo video: 
 
+![p4](.\image\p4.gif)
+
 
 ## 📦 Repository Contents
 ```bash
@@ -56,7 +58,7 @@ WeChat ID: coder199608
 
 Scan to add:
 
-
+![wechat](https://raw.githubusercontent.com/coder199608/pictures/main/images/wechat_qr.png)
 
 I’m happy to walk you through the design, debugging strategies, or performance tuning—just drop me a message!
 
