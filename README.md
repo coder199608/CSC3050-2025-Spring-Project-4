@@ -1,4 +1,12 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/coder199608/pictures/main/images/cbe46b79e36a6ba49af016d1321dcbf5_compress.jpg" width="120" alt="avatar">
+  <img src="https://raw.githubusercontent.com/coder199608/pictures/main/images/wechat_qr.png" width="120" alt="WeChat QR" title="扫码加我微信">
+</p>
+
+---
+
 # CSC3050 Project 4 – Cache Simulator & Matrix‐Multiply Analysis
+
 A hands‑on implementation of:
 
 Part 3: Multi‑level cache simulator with two L1 optimizations (stride prefetch & FIFO replacement).
@@ -58,7 +66,10 @@ WeChat ID: coder199608
 
 Scan to add:
 
-![wechat](https://raw.githubusercontent.com/coder199608/pictures/main/images/wechat_qr.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/coder199608/pictures/main/images/cbe46b79e36a6ba49af016d1321dcbf5_compress.jpg" width="120" alt="avatar">
+  <img src="https://raw.githubusercontent.com/coder199608/pictures/main/images/wechat_qr.png" width="120" alt="WeChat QR" title="扫码加我微信">
+</p>
 
 I’m happy to walk you through the design, debugging strategies, or performance tuning—just drop me a message!
 
